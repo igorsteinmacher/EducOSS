@@ -28,6 +28,6 @@ Discutir aspectos de educação em engenharia de software envolvendo Software Li
 | 10:00 - 12:00   | Sessão 2 - Proposta de soluções para os problemas discutidos (2 x 45 discussão + 15 wrapup )|
 | 12:00 - 14:00   | *Almoço*                      |
 | 14:00 - 16:00   | Sessão 3 - Entrando em profundidade nas discussões da S2.   |
-| 15:30 - 16:00   | *Coffee Break* |
-| 16:00 - 17:30   | Sessão 3 - Discussão sobre tópicos de interesse (grupos)| 
+| 16:00 - 16:30   | *Coffee Break* |
+| 16:30 - 17:30   | Sessão 4 - Apresentação dos Grupos | 
 | 17:30 - 18:00   | Wrap-up - Consolidando as discussões e definições próximos passos |
