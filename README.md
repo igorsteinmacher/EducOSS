@@ -1,7 +1,7 @@
 # EducOSS: 1o. Workshop em Educação e Open Source
 
 ## Objetivo preliminar
-Discutir aspectos de educação em engenharia de software envolvendo Software Livre e entrada de novos membros a projetos
+Discutir aspectos de educação em nível de graduação envolvendo Software Livre e outras soluções relacionadas
 
 ## Agenda preliminar
 
