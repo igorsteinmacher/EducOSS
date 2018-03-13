@@ -31,6 +31,7 @@ Discutir aspectos de educação em nível de graduação envolvendo Software Liv
 | 16:00 - 16:30   | *Coffee Break* |
 | 16:30 - 17:30   | Sessão 4 - Apresentação dos Grupos | 
 | 17:30 - 18:30   | Wrap-up - Consolidando as discussões e definições próximo dia |
+| 18:30 -     | Visita à cervejaria Tauá |
 
 ### Quarta-feira 20/Junho - Propostas de aplicação (outcome: esqueleto de projetos)
 
