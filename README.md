@@ -15,7 +15,7 @@ Discutir aspectos de educação em engenharia de software envolvendo Software Li
 | 13:30 - 15:00   | Sessão 1b - Apresentação participantes    |
 | 15:00 - 16:00   | Sessão 2 - Discussão sobre tópicos de interesse (grupos) |
 | 16:00 - 16:30   | *Coffee Break* |
-| 16:30 - 17:30   | Sessão 3 - Definindo uma linguagem única| 
+| 16:30 - 17:30   | Sessão 3 - Desafios da Educação em ES| 
 | 17:30 - 18:00   | Wrap-up - Consolidando as discussões e definições próximos passos |
 | 19:30 - 21:30   | Game night! Tragam seus jogos de tabuleiros/cartas e vamos nos divertir |
 
@@ -25,8 +25,8 @@ Discutir aspectos de educação em engenharia de software envolvendo Software Li
 | Horário         | Atividade                     |
 |-----------------|--------------------------     |
 | 08:00 - 09:00   | Café da manhã                |
-| 09:00 - 09:30   | Sessão 1 - Discussão - Definição de Objetivos     |
-| 09:30 - 12:00   | Sessão 2 -  |
+| 09:00 - 10:00   | Sessão 1 - Definindo uma linguagem única  |
+| 10:00 - 12:00   | Sessão 2 -  |
 | 12:00 - 14:00   | *Almoço*                      |
 | 13:30 - 14:30   | Sessão 1 - Apresentação participantes    |
 | 14:30 - 15:30   | Sessão 2 - Definindo uma linguagem única |
