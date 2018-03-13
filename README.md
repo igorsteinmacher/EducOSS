@@ -10,12 +10,12 @@ Discutir aspectos de educação em engenharia de software envolvendo Software Li
 | Horário         | Atividade                     |
 |-----------------|--------------------------     |
 | 09:00 - 10:00   | Visita à UTFPR                |
-| 10:00 - 12:00   | Apresentaço participantes
+| 10:00 - 12:00   | Sessão 1a - Apresentação participantes
 | 12:00 - 13:30   | *Almoço*                      |
-| 13:30 - 15:00   | Apresentação participantes    |
-| 15:00 - 16:00   | Sessão 2 - Definindo uma linguagem única |
+| 13:30 - 15:00   | Sessão 1b - Apresentação participantes    |
+| 15:00 - 16:00   | Sessão 2 - Discussão sobre tópicos de interesse (grupos) |
 | 16:00 - 16:30   | *Coffee Break* |
-| 16:30 - 17:30   | Sessão 3 - Discussão sobre tópicos de interesse (grupos)| 
+| 16:30 - 17:30   | Sessão 3 - Definindo uma linguagem única| 
 | 17:30 - 18:00   | Wrap-up - Consolidando as discussões e definições próximos passos |
 | 19:30 - 21:30   | Game night! Tragam seus jogos de tabuleiros/cartas e vamos nos divertir |
 
