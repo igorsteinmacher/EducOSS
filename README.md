@@ -38,8 +38,8 @@ Discutir aspectos de educação em engenharia de software envolvendo Software Li
 |-----------------|--------------------------     |
 | 08:00 - 09:00   | Café da manhã                |
 | 09:00 - 10:00   | Sessão 1 - Grupos|
-| 10:30 - 10:00   | *Coffee-break* |
-| 10:00 - 12:00   | Sessão 2 - Grupos|
+| 10:00 - 10:30   | *Coffee-break* |
+| 10:30 - 12:00   | Sessão 2 - Grupos|
 | 12:00 - 14:00   | *Almoço*                      |
 | 14:00 - 16:00   | Sessão 3 - Grupos  |
 | 16:00 - 16:30   | *Coffee Break* |
