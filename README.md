@@ -9,6 +9,7 @@ Discutir aspectos de educação em nível de graduação envolvendo Software Liv
 
 | Horário         | Atividade                     |
 |-----------------|--------------------------     |
+| 08:00 - 09:00   | Café da manhã               |
 | 09:00 - 10:00   | Visita à UTFPR                |
 | 10:00 - 12:00   | Sessão 1a - Apresentação participantes
 | 12:00 - 13:30   | *Almoço*                      |
