@@ -17,7 +17,7 @@ Discutir aspectos de educação em nível de graduação envolvendo Software Liv
 | 16:00 - 16:30   | *Coffee Break* |
 | 16:30 - 17:30   | Sessão 3 - Desafios da Educação em ES| 
 | 17:30 - 18:00   | Wrap-up - Consolidando as discussões |
-| 19:30 - 21:30   | Game night! Tragam seus jogos de tabuleiros/cartas e vamos nos divertir |
+| 19:30 -    | Jantar + Game night! Tragam seus jogos de tabuleiros/cartas e vamos nos divertir |
 
 ### Terça-feira 19/Junho - Soluções e discussões (outcome: position papers)
 
@@ -46,14 +46,15 @@ Discutir aspectos de educação em nível de graduação envolvendo Software Liv
 | 16:00 - 16:30   | *Coffee Break* |
 | 16:30 - 17:30   | Sessão 4 - Apresentação dos Grupos | 
 | 17:30 - 18:30   | Wrap-up - Consolidando as discussões e definições próximo dia |
+| 19:30 -   | Jantar + conversa |
 
 ### Quinta-feira 21/Junho - (outcome: fechamento + próximos passos)
 | Horário         | Atividade                
 |-----------------|--------------------------|
-| 08:00 - 09:00   | Café da manhã            |
-| 09:00 - 11:00   | Sessão 1 - Polimento e fechamento do dia anterior | 
-| 11:00 - 12:00   | Sessão 2 - Definição de papeis e responsabilidades para próximos passos | 
-| 12:00 - 14:00   | *Almoço*                 |
-| 14:00 - 16:00   | Sessão 3 - Agenda aberta |
+| 08:00 - 08:30   | Café da manhã            |
+| 08:30 - 10:30   | Sessão 1 - Polimento e fechamento do dia anterior | 
+| 10:30 - 11:30   | Sessão 2 - Definição de papeis e responsabilidades para próximos passos | 
+| 11:30 - 12:30   | *Almoço*                 |
+| 12:30    | Partida para Maringá
 
 
