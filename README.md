@@ -1,3 +1,5 @@
+FUCKKKKK YOU CHIEFS!!!!!
+
 # EducOSS: 1o. Workshop em Educação e Open Source
 
 ## Objetivo preliminar
